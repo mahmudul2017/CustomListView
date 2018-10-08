@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Day9Ext2</string>
+
+    <string-array name="text">
+        <item>Apple</item>
+        <item>Banana</item>
+        <item>Orange</item>
+        <item>Mango</item>
+        <item>PineApple</item>
+    </string-array>
+</resources>
